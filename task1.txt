@@ -1,1 +1,4 @@
-Hello this is the first line I'm going to write for the first commit.
+Hello this is the first line I'm going to write for the first commit
+
+
+This is the second commit text for the development branch.
